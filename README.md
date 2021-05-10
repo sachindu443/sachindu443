@@ -3,7 +3,7 @@
 </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sachindu443)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sachindu__Lakshan:sachindulakshan111@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachindulakshan111@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sachindulakshan111@outlook.com)
 <a href="https://t.me/scc444"><img src="https://img.shields.io/badge/Telegram-Contact%20%40scc444-red.svg?logo=telegram"></a>
 

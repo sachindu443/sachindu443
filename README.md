@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachindu443 
-                                     Developer from Sri Lanka 🇱🇰.
+<h1 align="center">Hi 👋, I'm Sachindu Developer from Sri Lanka 🇱🇰.
 
 </h1>
 

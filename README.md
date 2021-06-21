@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: [User is out of reachable zone](https://t.me/scc444)
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
 
 <br/>
